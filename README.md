@@ -7,7 +7,8 @@ A proposta deste desafio é avaliar as competências e habilidades do desenvolve
 Um grande amigo seu, não aguenta mais pagar comissão para os aplicativos de comida e acha que chegou o grande momento de desenvolver o App da sua Pizzaria. A Idéia e começar bem simples, somente o MVP (Minimum Viable Product) e ir evoluíndo aos poucos.
 
 ### Requisitos
-Desenvolver App nativo em plataforma Android utilizando linguagens Java ou Swift
+Desenvolver App nativo em plataforma Android utilizando linguagens Java ou Kotlin
+
 No MVP deverá conter:
 - Autenticação;
 - Listagem de pizzas;
